@@ -53,6 +53,7 @@ extendedKeyUsage        = critical,codeSigning
     mkdir_p buildpath/"src/github.com/derekparker"
     ln_sf buildpath, buildpath/"src/github.com/derekparker/delve"
 
+    ENV["GOBIN"] = buildpath
     ENV["GOPATH"] = buildpath
     ENV["CERT"] = dlv_cert
 
