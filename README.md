@@ -7,8 +7,8 @@ Homebrew formula for delve.
 
 To install the latest release:
 
-    $ brew install steeve/delve/delve
+    $ brew install go-delve/delve/delve
 
 To install from the latest HEAD:
 
-    $ brew install steeve/delve/delve --HEAD
+    $ brew install go-delve/delve/delve --HEAD
