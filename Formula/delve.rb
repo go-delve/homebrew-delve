@@ -65,7 +65,7 @@ extendedKeyUsage        = critical,codeSigning
     bin.install "dlv"
   end
 
-  def caveats; <<-EOS.undent
+  def caveats; <<~EOS
     If you get "could not launch process: could not fork/exec", you need to try
     in a new terminal.
 
