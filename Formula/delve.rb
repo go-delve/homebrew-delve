@@ -1,8 +1,8 @@
 class Delve < Formula
   desc "Debugger for the Go programming language."
   homepage "https://github.com/derekparker/delve"
-  url "https://github.com/derekparker/delve/archive/v1.0.0-rc.2.tar.gz"
-  version "1.0.0-rc.2"
+  url "https://github.com/derekparker/delve/archive/v1.0.0.tar.gz"
+  version "1.0.0"
   sha256 "4f0f85facb15e5d9fdae9d8939672279829b5b2c1f9176484708f962ccb7b6b8"
 
   head "https://github.com/derekparker/delve.git"
