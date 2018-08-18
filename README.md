@@ -1,3 +1,5 @@
+**This formula is unsupported, Delve can now be [installed on macOS using go get](https://github.com/derekparker/delve/blob/master/Documentation/installation/osx/install.md) (signing is not needed)**
+
 homebrew-delve
 ===============
 
