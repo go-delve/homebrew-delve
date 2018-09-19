@@ -1,14 +1,4 @@
 homebrew-delve
 ===============
 
-Homebrew formula for delve.
-
-## Usage
-
-To install the latest release:
-
-    $ brew install go-delve/delve/delve
-
-To install from the latest HEAD:
-
-    $ brew install go-delve/delve/delve --HEAD
+This formula is deprecated. Please see the installation instructions in the [main repo](https://github.com/derekparker/delve/tree/master/Documentation/installation/osx).
